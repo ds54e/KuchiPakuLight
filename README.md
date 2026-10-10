@@ -4,4 +4,3 @@ Video Sequence Editorの特定のチャンネルにおかれた音声データ�
 
 ## 使い方 
 https://www.nicovideo.jp/watch/sm40081775  
-https://drive.google.com/file/d/1aR5ZPXBY8br2YInyM3oob8OcwvgTkbOY
